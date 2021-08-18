@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/drawable/dice_1.xml" value="0.2703125" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/drawable/ic_college.xml" value="0.2703125" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/drawable/ic_logout.xml" value="0.2703125" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/drawable/signup_layout.xml" value="0.2703125" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/drawable/spinner_layout.xml" value="0.2703125" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/layout/activity_college_shedule.xml" value="0.2" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/layout/activity_login_page.xml" value="0.264" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/layout/activity_registeration_page.xml" value="0.4" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp/app/src/main/res/layout/attend_class.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/drawable-v24/ic_book.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable-v24/ic_contact.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/dice_1.xml" value="0.1015625" />
+        <entry key="app/src/main/res/drawable/edit_text_background.xml" value="0.33" />
+        <entry key="app/src/main/res/drawable/ic_college.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_dashboard_user.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_map.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_password.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_rollno.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_user.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/layout_shape.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/login.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/signup_layout.xml" value="0.2046875" />
+        <entry key="app/src/main/res/layout/activity_college_shedule.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_registeration_page.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/attend_class.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.8" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

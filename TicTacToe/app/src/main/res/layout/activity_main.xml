@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3DCBDD"
+    tools:context=".MainActivity">
+
+    <androidx.gridlayout.widget.GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="369dp"
+        android:layout_height="399dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginEnd="21dp"
+        android:background="@drawable/board"
+        app:columnCount="3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startAgain"
+        app:layout_constraintVertical_bias="0.126"
+        app:rowCount="3">
+
+        <ImageView
+            android:id="@+id/coin1"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:contentDescription="coin1"
+            android:onClick="coinAppear"
+            android:tag="0"
+            app:layout_column="0"
+            app:layout_row="0" />
+
+        <ImageView
+            android:id="@+id/coin2"
+            android:layout_width="107dp"
+            android:layout_height="115dp"
+            android:layout_margin="10dp"
+            android:contentDescription="coin2"
+            android:onClick="coinAppear"
+            android:tag="1"
+            app:layout_column="1"
+            app:layout_row="0" />
+
+        <ImageView
+            android:id="@+id/coin3"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:contentDescription="coin3"
+            android:onClick="coinAppear"
+            android:tag="2"
+            app:layout_column="2"
+            app:layout_row="0" />
+
+        <ImageView
+            android:id="@+id/coin4"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="15sp"
+            android:contentDescription="coin4"
+            android:onClick="coinAppear"
+            android:tag="3"
+            app:layout_column="0"
+            app:layout_row="1" />
+
+        <ImageView
+            android:id="@+id/coin5"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="15sp"
+            android:contentDescription="coin5"
+            android:onClick="coinAppear"
+            android:tag="4"
+            app:layout_column="1"
+            app:layout_row="1" />
+
+        <ImageView
+            android:id="@+id/coin6"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="15sp"
+            android:contentDescription="coin6"
+            android:onClick="coinAppear"
+            android:tag="5"
+            app:layout_column="2"
+            app:layout_row="1" />
+
+        <ImageView
+            android:id="@+id/coin7"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="15dp"
+            android:contentDescription="coin7"
+            android:onClick="coinAppear"
+            android:tag="6"
+            app:layout_column="0"
+
+            app:layout_row="2" />
+
+        <ImageView
+            android:id="@+id/coin8"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="15dp"
+            android:contentDescription="coin8"
+            android:onClick="coinAppear"
+            android:tag="7"
+            app:layout_column="1"
+            app:layout_row="2" />
+
+        <ImageView
+            android:id="@+id/coin9"
+            android:layout_width="103dp"
+            android:layout_height="109dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="15dp"
+            android:contentDescription="coin9"
+            android:onClick="coinAppear"
+            android:tag="8"
+            app:layout_column="2"
+
+            app:layout_row="2" />
+    </androidx.gridlayout.widget.GridLayout>
+
+    <TextView
+        android:id="@+id/playerActive"
+        android:layout_width="249dp"
+        android:layout_height="81dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="36dp"
+        android:paddingTop="14dp"
+        android:text="Black's Turn - Tap to play"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/startAgain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="156dp"
+        android:onClick="playAgain"
+        android:text="@string/play_again"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/playerActive" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
