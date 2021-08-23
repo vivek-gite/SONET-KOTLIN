@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio_Codes/NgitApp_Assignment_2/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp_Assignment_2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Studio_Codes/NgitApp_Assignment_2/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable/edit_text_background.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_book.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_contact.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_login.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_logout.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_password.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_profile_pic.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_rollno.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_user.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/layout_shape.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/signup_layout.xml" value="0.2046875" />
+        <entry key="app/src/main/res/font/quattrocento_sans_bold.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_registeration_page.xml" value="0.18854166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
