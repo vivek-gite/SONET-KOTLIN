@@ -8,6 +8,7 @@
         <entry key="..\:/Android_Studio_Codes/NgitApp_Assignment_2/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
         <entry key="app/src/main/res/drawable/edit_text_background.xml" value="0.2046875" />
         <entry key="app/src/main/res/drawable/ic_book.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_college.xml" value="0.2046875" />
         <entry key="app/src/main/res/drawable/ic_contact.xml" value="0.2046875" />
         <entry key="app/src/main/res/drawable/ic_login.xml" value="0.2046875" />
         <entry key="app/src/main/res/drawable/ic_logout.xml" value="0.2046875" />
@@ -17,11 +18,16 @@
         <entry key="app/src/main/res/drawable/ic_user.xml" value="0.2046875" />
         <entry key="app/src/main/res/drawable/layout_shape.xml" value="0.2046875" />
         <entry key="app/src/main/res/drawable/signup_layout.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/spinner_layout.xml" value="0.2046875" />
+        <entry key="app/src/main/res/font/athiti_bold.xml" value="0.21875" />
         <entry key="app/src/main/res/font/quattrocento_sans_bold.xml" value="0.21875" />
-        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/layout/activity_class.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_registeration_page.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/layout/fragment_college_shedule.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
       </map>
     </option>
   </component>
